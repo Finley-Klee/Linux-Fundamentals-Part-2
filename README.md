@@ -35,7 +35,7 @@ In this walkthrough room the new skills introduced include adding flags and argu
 <br />
 <br />
 - <b>Introduction to Flags and Switches</b>
-<p>Description</p>
+<p>I learned that most linux commands accept arguments that you provide with a hyphen followed by a flag or a switch.</p>
 <br>
 <p align="center">Step One: <br/>
   <img src="" height="80%" width="80%" alt="image one"/>
@@ -56,8 +56,52 @@ In this walkthrough room the new skills introduced include adding flags and argu
   Step Five: <br />
   <img src="" height="80%" width="80%" alt="image five"/>
 </p>
-- <b>Section Name</b>
-<p>Description</p>
+- <b>Filesystem Interaction Continued</b>
+<p>Building upon the commnads I learned in part one, which were ls, find, and cd, in this section I learned how to create, move, and delete files and folders using the command line.</p>
+<br>
+<p align="center">Step One: <br/>
+  <img src="" height="80%" width="80%" alt="image one"/>
+  <br />
+  <br />
+  Step Two: <br />
+  <img src="" height="80%" width="80%" alt="image two"/>
+  <br />
+  <br />
+  Step Three: <br />
+  <img src="" height="80%" width="80%" alt="image three"/>
+   <br />
+  <br />
+  Step Four: <br />
+  <img src="" height="80%" width="80%" alt="image four"/>
+   <br />
+  <br />
+  Step Five: <br />
+  <img src="" height="80%" width="80%" alt="image five"/>
+</p>
+- <b>Permissions 101</b>
+<p>Next I learned about user permissions and how to switch users.</p>
+<br>
+<p align="center">Step One: <br/>
+  <img src="" height="80%" width="80%" alt="image one"/>
+  <br />
+  <br />
+  Step Two: <br />
+  <img src="" height="80%" width="80%" alt="image two"/>
+  <br />
+  <br />
+  Step Three: <br />
+  <img src="" height="80%" width="80%" alt="image three"/>
+   <br />
+  <br />
+  Step Four: <br />
+  <img src="" height="80%" width="80%" alt="image four"/>
+   <br />
+  <br />
+  Step Five: <br />
+  <img src="" height="80%" width="80%" alt="image five"/>
+</p>
+- <b>Common Directories</b>
+<p>In this last section of part two I learned about four common directories in Linux: /etc, /var, /root, and /tmp.</p>
 <br>
 <p align="center">Step One: <br/>
   <img src="" height="80%" width="80%" alt="image one"/>
